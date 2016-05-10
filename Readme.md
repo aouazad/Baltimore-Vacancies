@@ -13,4 +13,6 @@ And a source map in Shapefile format from the NHGIS, joined with data on the fra
 
 The map can easily be adjusted to depict vacancies in other core based statistical areas.
 
+The output is available at [this address](http://www.ouazad.com/Maps/Baltimore_Vacancies/index.html).
+
 
